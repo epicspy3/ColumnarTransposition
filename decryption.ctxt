@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=decryption
+comment1.params=userInput\ userKey
+comment1.target=decryption(java.lang.String,\ java.lang.String)
+comment2.params=Object
+comment2.target=void\ decrypt(decryption)
+numComments=3
